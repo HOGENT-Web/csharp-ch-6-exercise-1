@@ -1,6 +1,6 @@
 # Chapter 1 - Exercise 1
 ##  Objectives
-- Learn how to create a Blazor Web Assmebly Application
+- Learn how to create a Blazor Web Assembly Application
 - Learn how to create a component
 - Learn how to use components with parameters
 - Learn how to use event handlers
